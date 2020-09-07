@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da46c4e1-c831-4844-a299-400c8c47faf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/user/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -75,7 +75,7 @@
       <workItem from="1599137873704" duration="49000" />
       <workItem from="1599200177488" duration="4042000" />
       <workItem from="1599439740416" duration="7554000" />
-      <workItem from="1599447552301" duration="3732000" />
+      <workItem from="1599447552301" duration="5266000" />
     </task>
     <servers />
   </component>
@@ -99,10 +99,10 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="421" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1366.744@0.24.1366.744" timestamp="1599444749303" />
-    <state x="412" y="141" key="FileChooserDialogImpl" timestamp="1599137928978">
+    <state x="412" y="141" key="FileChooserDialogImpl" timestamp="1599459516345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="412" y="141" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1599137928978" />
+    <state x="412" y="141" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1599459516345" />
     <state width="1312" height="181" key="GridCell.Tab.0.bottom" timestamp="1599447494437">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -139,10 +139,10 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="43" y="38" key="Registry/0.24.1366.744@0.24.1366.744" timestamp="1599447483746" />
-    <state x="199" y="24" key="SettingsEditor" timestamp="1599448356134">
+    <state x="199" y="24" key="SettingsEditor" timestamp="1599459288016">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="199" y="24" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1599448356134" />
+    <state x="199" y="24" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1599459288016" />
     <state x="387" y="54" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599100165810">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
