@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da46c4e1-c831-4844-a299-400c8c47faf7" name="Default Changelist" comment="">
+    <list default="true" id="da46c4e1-c831-4844-a299-400c8c47faf7" name="Default Changelist" comment="index.html commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +76,32 @@
       <workItem from="1599137873704" duration="49000" />
       <workItem from="1599200177488" duration="4042000" />
       <workItem from="1599439740416" duration="7554000" />
-      <workItem from="1599447552301" duration="5266000" />
+      <workItem from="1599447552301" duration="5814000" />
     </task>
+    <task id="LOCAL-00001" summary="idea commit">
+      <created>1599459669426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599459669426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="index.html commit">
+      <created>1599459752979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599459752979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea commit" />
+    <MESSAGE value="index.html commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="45" key="#Inspections" timestamp="1599440906589">
@@ -99,42 +120,46 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="421" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1366.744@0.24.1366.744" timestamp="1599444749303" />
+    <state x="115" y="24" key="CommitChangelistDialog2" timestamp="1599459752840">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="115" y="24" key="CommitChangelistDialog2/0.24.1366.744@0.24.1366.744" timestamp="1599459752840" />
     <state x="412" y="141" key="FileChooserDialogImpl" timestamp="1599459516345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="412" y="141" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1599459516345" />
-    <state width="1312" height="181" key="GridCell.Tab.0.bottom" timestamp="1599447494437">
+    <state width="1312" height="181" key="GridCell.Tab.0.bottom" timestamp="1599459739345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
-    <state width="1312" height="181" key="GridCell.Tab.0.center" timestamp="1599447494436">
+    <state width="1312" height="181" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599459739345" />
+    <state width="1312" height="181" key="GridCell.Tab.0.center" timestamp="1599459739345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1599447494436" />
-    <state width="1312" height="181" key="GridCell.Tab.0.left" timestamp="1599447494436">
+    <state width="1312" height="181" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1599459739345" />
+    <state width="1312" height="181" key="GridCell.Tab.0.left" timestamp="1599459739344">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1599447494436" />
-    <state width="1312" height="181" key="GridCell.Tab.0.right" timestamp="1599447494437">
+    <state width="1312" height="181" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1599459739344" />
+    <state width="1312" height="181" key="GridCell.Tab.0.right" timestamp="1599459739345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
-    <state width="1312" height="181" key="GridCell.Tab.1.bottom" timestamp="1599447494439">
+    <state width="1312" height="181" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1599459739345" />
+    <state width="1312" height="181" key="GridCell.Tab.1.bottom" timestamp="1599459739346">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599447494439" />
-    <state width="1312" height="181" key="GridCell.Tab.1.center" timestamp="1599447494438">
+    <state width="1312" height="181" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599459739346" />
+    <state width="1312" height="181" key="GridCell.Tab.1.center" timestamp="1599459739346">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1599447494438" />
-    <state width="1312" height="181" key="GridCell.Tab.1.left" timestamp="1599447494437">
+    <state width="1312" height="181" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1599459739346" />
+    <state width="1312" height="181" key="GridCell.Tab.1.left" timestamp="1599459739345">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
-    <state width="1312" height="181" key="GridCell.Tab.1.right" timestamp="1599447494439">
+    <state width="1312" height="181" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1599459739345" />
+    <state width="1312" height="181" key="GridCell.Tab.1.right" timestamp="1599459739346">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1312" height="181" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1599447494439" />
+    <state width="1312" height="181" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1599459739346" />
     <state x="43" y="38" key="Registry" timestamp="1599447483746">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -147,5 +172,9 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="387" y="54" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.24.1366.744@0.24.1366.744" timestamp="1599100165810" />
+    <state x="275" y="164" key="git4idea.merge.GitPullDialog" timestamp="1599459950518">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="275" y="164" key="git4idea.merge.GitPullDialog/0.24.1366.744@0.24.1366.744" timestamp="1599459950518" />
   </component>
 </project>
