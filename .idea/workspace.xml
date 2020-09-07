@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da46c4e1-c831-4844-a299-400c8c47faf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gyilrRlNSMVDKdF8c0gctJtyQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test_springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.x.test.MainApplication" />
+      <option name="HIDE_BANNER" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da46c4e1-c831-4844-a299-400c8c47faf7" name="Default Changelist" comment="" />
+      <created>1599093386931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599093386931</updated>
+      <workItem from="1599093393263" duration="3119000" />
+      <workItem from="1599099732124" duration="8371000" />
+      <workItem from="1599137873704" duration="49000" />
+      <workItem from="1599200177488" duration="4042000" />
+      <workItem from="1599439740416" duration="7554000" />
+      <workItem from="1599447552301" duration="2731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="45" key="#Inspections" timestamp="1599440906589">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="283" y="45" key="#Inspections/0.24.1366.744@0.24.1366.744" timestamp="1599440906589" />
+    <state x="282" y="44" width="800" height="675" key="#Notifications" timestamp="1599439769486">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="282" y="44" width="800" height="675" key="#Notifications/0.24.1366.744@0.24.1366.744" timestamp="1599439769486" />
+    <state x="56" y="41" width="1310" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599201529028">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="56" y="41" width="1310" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.744@0.24.1366.744" timestamp="1599201529028" />
+    <state x="421" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599444749303">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="421" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1366.744@0.24.1366.744" timestamp="1599444749303" />
+    <state x="412" y="141" key="FileChooserDialogImpl" timestamp="1599137928978">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="412" y="141" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1599137928978" />
+    <state width="1312" height="181" key="GridCell.Tab.0.bottom" timestamp="1599447494437">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
+    <state width="1312" height="181" key="GridCell.Tab.0.center" timestamp="1599447494436">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1599447494436" />
+    <state width="1312" height="181" key="GridCell.Tab.0.left" timestamp="1599447494436">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1599447494436" />
+    <state width="1312" height="181" key="GridCell.Tab.0.right" timestamp="1599447494437">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
+    <state width="1312" height="181" key="GridCell.Tab.1.bottom" timestamp="1599447494439">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1599447494439" />
+    <state width="1312" height="181" key="GridCell.Tab.1.center" timestamp="1599447494438">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1599447494438" />
+    <state width="1312" height="181" key="GridCell.Tab.1.left" timestamp="1599447494437">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1599447494437" />
+    <state width="1312" height="181" key="GridCell.Tab.1.right" timestamp="1599447494439">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1312" height="181" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1599447494439" />
+    <state x="43" y="38" key="Registry" timestamp="1599447483746">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="43" y="38" key="Registry/0.24.1366.744@0.24.1366.744" timestamp="1599447483746" />
+    <state x="199" y="24" key="SettingsEditor" timestamp="1599448356134">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="199" y="24" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1599448356134" />
+    <state x="387" y="54" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599100165810">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="387" y="54" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.24.1366.744@0.24.1366.744" timestamp="1599100165810" />
+  </component>
+</project>

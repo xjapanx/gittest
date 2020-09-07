@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <title>list</title>
+</head>
+
+<table name="usertb" width="100%" border="1">
+    <tr><td>ID</td><td>用户名</td><td>性别</td><td>添加人ID</td><td>添加时间</td></tr>
+<#list list as item>
+    <tr>
+        <td>${item.id}</td>
+        <td>${item.username}</td>
+        <td>
+            <#if (item.sex) == "1">
+            男
+            <#else>
+            女
+        </#if>
+        </td>
+        <td>${item.addId}</td>
+        <td>${item.addTime?string('yyyy-MM-dd hh:mm:ss')}</td>
+    </tr>
+</#list>
+</table>
+</body>
+</html>
